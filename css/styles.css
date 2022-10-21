@@ -1,0 +1,158 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.caja1{
+    background-color:whitesmoke;
+    height: 50rem;
+}
+
+.caja2 {
+    background:whitesmoke;
+    height: 50rem;
+
+}
+
+.caja3 {
+    background:whitesmoke;
+    height:5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.caja4 {
+    background-color:whitesmoke;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.caja5 {
+    background-color:whitesmoke;
+    height: 500px;
+}
+.caja6 {
+    background:whitesmoke;
+    height:500px;
+}
+
+.texto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foto {
+    height:auto;
+     width: 100%;
+}
+
+.centrar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagen {
+    width: 50%;
+    max-width:500px;
+}
+
+.caja7 {
+ background-color:whitesmoke;
+height: 50rem;
+ 
+}
+.boton {
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px;
+    border-radius:15px;
+    background-color:0000FF;
+    color:aqua;
+    margin: 20px;
+}
+
+.proyectos {
+    text-align: center; 
+    padding: 0 0 100px 0;
+}
+
+.tamano {
+    width: 100%;
+}
+.imagenes {
+    width: 300px;
+    padding: 50px;
+}
+.contactenos {
+    text-align: center;
+    padding:0 0 100px 0;
+}
+.caja10 {
+    background-color: thistle;
+    height: 50rem;
+
+}
+.mapadesitio {
+    text-align: center;
+    padding: 0 0 100px 0;
+}
+.caja11 {
+    background-color:whitesmoke;
+    padding: 50px;
+
+}
+.caja12 {
+    background-color:whitesmoke;
+    padding: 50px;
+}
+.caja13 {
+    background-color:whitesmoke;
+    padding: 50px;
+}
+.caja14 {
+    background-color:whitesmoke;
+    padding: 50px;
+}
+.caja15 {
+    background-color:whitesmoke;
+    padding: 50px;
+}
+.caja16 {
+    background-color:whitesmoke;
+    padding: 50px;
+}
+
+.caja17 {
+    background-color:whitesmoke;
+    padding: 50px;
+}
+.caja18 {
+    background-color:whitesmoke;
+    padding: 50px;
+}
+.centrar {
+    display: flex;
+    content:center;
+    align-items: center;
+}
+.fotografia {
+    display: flex;
+    content:center;
+    align-items: center;
+    width:50%;
+}
+.caja19 {
+    background-color:whitesmoke;
+    height:40rem;
+}
+.alto {
+    width:60%;
+}
+.texto_perfil {
+    padding: 30px;
+}
+
